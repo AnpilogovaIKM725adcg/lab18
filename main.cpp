@@ -117,6 +117,5 @@ int main()
     cout << endl;
     cout << "Після присвоювання ob3 = ob1:" << endl;
     ob3.show();
-
-    return 0;
+    
 }
